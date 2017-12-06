@@ -1,0 +1,11 @@
+{
+    "schemaVersion": "0.1.0",
+    "suppliers": {
+        "1": {
+            "name": "sifive",
+            "displayName": "SiFive",
+            "fullName": "SiFive, Inc.",
+            "contact": "info@sifive.com"  
+        }
+    }
+}
