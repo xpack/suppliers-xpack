@@ -5,7 +5,8 @@
             "name": "sifive",
             "displayName": "SiFive",
             "fullName": "SiFive, Inc.",
-            "contact": "info@sifive.com"  
+            "contact": "info@sifive.com",
+            "url": "https://www.sifive.com"
         }
     }
 }
