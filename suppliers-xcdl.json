@@ -6,6 +6,12 @@
             "displayName": "SiFive",
             "fullName": "SiFive, Inc.",
             "contact": "info@sifive.com"  
+        },
+         "2": {
+            "name": "shakti",
+            "displayName": "Shakti",
+            "fullName": "shakti.org.in.",
+            "contact": "shakti.iitm@gmail.com"  
         }
     }
 }
