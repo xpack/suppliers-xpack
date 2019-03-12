@@ -10,8 +10,9 @@
          "2": {
             "name": "shakti",
             "displayName": "Shakti",
-            "fullName": "shakti.org.in.",
-            "contact": "shakti.iitm@gmail.com"  
+            "fullName": "Shakti, IITM",
+            "contact": "shakti.iitm@gmail.com",
+            "url": "shakti.org.in"
         }
     }
 }
